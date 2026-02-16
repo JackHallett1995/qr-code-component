@@ -28,6 +28,9 @@ body {
     align-items: center;
     gap: 24px;
 }
+figure {
+    margin: 0;
+}
 .card-text {
     display: flex;
     flex-direction: column;
